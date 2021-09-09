@@ -1,0 +1,33 @@
+.traymenu__regular {
+}
+.traymenu__open-app {
+    -fx-border-width: 0 0 1px 0;
+    -fx-border-color: rgba(140, 140, 140, 0.36);
+}
+.traymenu__close-app {
+    -fx-border-width: 1px 0 0 0;
+    -fx-border-color: rgba(140, 140, 140, 0.36);
+}
+.traymenu__all {
+    -fx-alignment: center-left;
+    -fx-background-color: none;
+    -fx-border-radius: 0;
+    -fx-padding: 0;
+}
+.traymenu__all:hover {
+    -fx-background-color: rgba(155, 155, 155, 0.22);
+}
+.traymenu__all:pressed {
+    -fx-background-color: rgba(140, 147, 173, 0.27);
+}
+#traymenu__container {
+    -fx-border-color: rgba(175, 175, 175, 0.36);
+    -fx-border-width: 1px;
+    -fx-padding: 0;
+}
+.check-box .box {
+    -fx-background-color: none;
+    -fx-border-width: 1;
+    -fx-border-radius: 0;
+    -fx-border-color: rgb(255, 255, 255);
+}

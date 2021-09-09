@@ -24,3 +24,9 @@ Class with a defined style:
  ![Strap tray menu](https://i.ibb.co/g9nsrCx/strap-menu.png)
 
 The `TrayMenuFX` class can be used to embed any kind of JavaFX container along with fxml. When using `FXMLLoader` an instance of the tray menu will be injected into the field with `@TrayMenu` annotation inside the defined controller.
+
+#### todo in near future
+ - [ ] document it 
+ - [ ] write tests 
+ - [ ] add custom exceptions 
+ - [ ] refactor styled classes

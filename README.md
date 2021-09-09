@@ -1,12 +1,12 @@
 
-# Tray icon and menu using JavaFX component
+# Tray icon and menu using JavaFX components
 ### (under developemnt)
 
 Approach to create tray icon and popup menu using JavaFX.
 
 Written in kotlin, works with Java 11+
 
-Built on top of java.awt and java.swing. It allows to add tray icon and a popup  
+Built on top of java.awt and java.swing. It allows to add tray icon and a popup menu written using JavaFX components. 
 
 Requires:
  - javafx.controls  

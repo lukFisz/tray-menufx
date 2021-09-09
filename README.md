@@ -25,8 +25,11 @@ Class with a defined style:
 
 The `TrayMenuFX` class can be used to embed any kind of JavaFX container along with fxml. When using `FXMLLoader` an instance of the tray menu will be injected into the field with `@TrayMenu` annotation inside the defined controller.
 
+Tested only on Windows
+
 #### todo in near future
  - [ ] document it 
  - [ ] write tests 
  - [ ] add custom exceptions 
  - [ ] refactor styled classes
+ - [ ] calculate position of window to cover all taskbar positions

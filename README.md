@@ -12,7 +12,7 @@ Requires:
  - javafx.controls  
  - javafx.fxml
  - kotlin.stdlib  
- - javafx.swing;
+ - javafx.swing
 
 Class with a defined style:
  - `LightTrayMenu`
